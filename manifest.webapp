@@ -1,0 +1,15 @@
+{
+  "name": "Card Madness",
+  "description": "Game about cards",
+  "icons": {
+    "128": "/cm-128.png",
+    "512": "/cm-512.png"
+  },
+  "developer": {
+    "name": "Carlos Chavez Laguna."
+  },
+  "launch_path": "/index.html",
+  "default_locale": "en",
+  "orientation": "landscape",
+  "fullscreen": "true"
+}
